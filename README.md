@@ -24,6 +24,7 @@ If you want to do this let me know and I can help you but here are the things th
 1 x 330ohm Resistor</br>
 1 x 470ohm resistor</br>
 1 x Line following component</br>
+The scripts for this are included in the "Code" directory.
 
 # Videos and images
 All of the videos and images are included in the repo, but here are the images:</br>
