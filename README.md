@@ -25,3 +25,15 @@ If you want to do this let me know and I can help you but here are the things th
 1 x 470ohm resistor</br>
 1 x Line following component</br>
 
+# Videos and images
+All of the videos and images are included in the repo, but here are the images:</br>
+Front:</br>
+![alt text](https://github.com/Throupy/RaspPi-Car/blob/master/Images/front.jpg)</br>
+Side:</br>
+![alt text](https://github.com/Throupy/RaspPi-Car/blob/master/Images/side.jpg)</br>
+Back:</br>
+![alt text](https://github.com/Throupy/RaspPi-Car/blob/master/Images/back.jpg)</br>
+Inside:</br>
+![alt text](https://github.com/Throupy/RaspPi-Car/blob/master/Images/inside.jpg)</br>
+here is a video of the car moving:</br>
+https://youtu.be/v46s3XiQuV0
