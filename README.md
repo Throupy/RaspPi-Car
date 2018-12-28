@@ -1,5 +1,5 @@
 # RaspPi-Car
-A remote control car made with a raspberry pi 3b+ and controlled with an Xbox360 wireless controller.
+A remote control car made with a raspberry pi 3b+ and controlled with an Xbox360 wireless controller which streams a live video feed to a flask application.
 
 # Equipment Used
 2 x RC-Car wheels </br>
@@ -28,6 +28,8 @@ The scripts for this are included in the "Code" directory.
 
 # Videos and images
 All of the videos and images are included in the repo, but here are the images:</br>
+Website with live feed:</br>
+![alt text](https://github.com/Throupy/RaspPi-Car/blob/master/Images/E4SjC7hNu9.png)</br>
 Front:</br>
 ![alt text](https://github.com/Throupy/RaspPi-Car/blob/master/Images/front.jpg)</br>
 Side:</br>
