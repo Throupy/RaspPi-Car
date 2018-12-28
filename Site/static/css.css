@@ -1,0 +1,17 @@
+#my-div
+{
+	border-style: solid;
+    width    : 512px;
+    height   : 288px;
+    overflow : hidden;
+    position : relative;
+}
+
+#my-iframe
+{
+    position : absolute;
+    top      : -78px;
+    left     : -390px;
+    width    : 1280px;
+    height   : 1200px;
+}
